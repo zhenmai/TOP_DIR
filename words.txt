@@ -4,4 +4,4 @@ Charlie
 Delta 
 Echo 
 Foxtrot
-GolfHotel
+Golf
